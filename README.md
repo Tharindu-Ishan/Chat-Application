@@ -3,6 +3,8 @@
 ## Version 
 0.1.0
 
+![view](https://github.com/Tharindu-Ishan/Chat-Application/assets/140793481/37a723af-add0-4052-8ada-a6a654688034)
+
 ## Used Technologies
 - HTML
 - CSS
