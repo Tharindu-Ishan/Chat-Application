@@ -1,0 +1,10 @@
+**/target
+**/out
+**/.idea
+**/.vscode
+**/*.iml
+front-end/node_modules
+front-end/.idea
+front-end/.vscode
+front-end/out
+front-end/.idea
